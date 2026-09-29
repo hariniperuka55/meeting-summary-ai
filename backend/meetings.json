@@ -1,0 +1,137 @@
+[
+  {
+    "id": "meeting-1790693099083",
+    "userId": "priya",
+    "title": "Client ABC Strategy Meeting",
+    "date": "2026-09-29T18:00:00",
+    "participants": [
+      "Priya",
+      "Rahul",
+      "Ananya",
+      "Client ABC"
+    ],
+    "note": "Client ABC wants a dashboard. Their budget is 50k. We agreed to send the proposal by Friday and schedule a dashboard demo next Tuesday.",
+    "summary": null,
+    "decisions": [],
+    "actionItems": [],
+    "commitments": [],
+    "createdAt": "2026-09-29T14:44:59.083Z",
+    "updatedAt": "2026-09-29T14:44:59.084Z"
+  },
+  {
+    "id": "meeting-1790693440134",
+    "userId": "priya",
+    "title": "Client ABC Strategy Meeting",
+    "date": "2026-09-29T18:00:00",
+    "participants": [
+      "Priya",
+      "Rahul",
+      "Ananya",
+      "Client ABC"
+    ],
+    "note": "Client ABC wants a dashboard. Their budget is 50k. We agreed to send the proposal by Friday and schedule a dashboard demo next Tuesday.",
+    "summary": "Discussed dashboard for Client ABC with $50k budget, proposal due Friday, demo next Tuesday.",
+    "decisions": [
+      "Client ABC wants a dashboard",
+      "Budget is $50k",
+      "Proposal to be sent by Friday",
+      "Dashboard demo to be scheduled next Tuesday"
+    ],
+    "actionItems": [
+      "Send the proposal by Friday",
+      "Schedule the dashboard demo for next Tuesday"
+    ],
+    "commitments": [
+      "Proposal will be sent by Friday",
+      "Dashboard demo will be scheduled for next Tuesday"
+    ],
+    "createdAt": "2026-09-29T14:50:40.134Z",
+    "updatedAt": "2026-09-29T14:50:40.135Z"
+  },
+  {
+    "id": "meeting-1790694397928",
+    "userId": "priya",
+    "title": "Client ABC Dashboard Project Discussion",
+    "date": "2026-10-01",
+    "participants": [
+      "Priya",
+      "Client ABC"
+    ],
+    "note": "Met with Client ABC to discuss the dashboard project.\n\nThe client wants a simple and easy-to-use dashboard.\nTheir budget is $50k.\n\nThey asked us to send the project proposal by October 2.\nWe agreed to schedule a product demo for October 6.\n\nClient ABC wants the dashboard to focus on sales performance and reporting.",
+    "summary": "Met with Client ABC to discuss a simple, sales-focused dashboard within a $50k budget. We agreed to send the proposal by Oct 2 and schedule a demo on Oct 6.",
+    "decisions": [
+      "Send the project proposal by October 2",
+      "Schedule a product demo on October 6",
+      "Dashboard will focus on sales performance and reporting"
+    ],
+    "actionItems": [
+      "Send project proposal by October 2",
+      "Schedule product demo on October 6"
+    ],
+    "commitments": [
+      "Send project proposal by October 2",
+      "Schedule product demo on October 6"
+    ],
+    "createdAt": "2026-09-29T15:06:37.928Z",
+    "updatedAt": "2026-09-29T15:06:37.928Z"
+  },
+  {
+    "id": "meeting-1790696713852",
+    "userId": "harini",
+    "title": "Product Demo and Project Planning",
+    "date": "2026-09-29",
+    "participants": [
+      "Harini",
+      "Rahul",
+      "Sneha",
+      "Client ABC"
+    ],
+    "note": "Met with Client ABC to discuss the new dashboard project. The client wants a simple analytics dashboard with sales reports, customer insights, and monthly performance charts. Their budget is $60,000. Harini will send the updated proposal by October 2. Rahul will prepare the dashboard prototype by October 5. Sneha will share the pricing document. The client will review the prototype on October 8. Everyone agreed that the first version should focus on sales analytics and customer reporting. Advanced AI features will be considered in a later phase.",
+    "summary": "Client ABC discussed a new dashboard project with a $60,000 budget. The team agreed the first version will focus on sales analytics and customer reporting, with advanced AI features postponed to a later phase. Tasks include sending a proposal, preparing a prototype, sharing pricing, and reviewing the prototype.",
+    "decisions": [
+      "First version will focus on sales analytics and customer reporting.",
+      "Advanced AI features will be considered in a later phase."
+    ],
+    "actionItems": [
+      "Harini will send updated proposal by October 2.",
+      "Rahul will prepare dashboard prototype by October 5.",
+      "Sneha will share the pricing document.",
+      "Client ABC will review the prototype on October 8."
+    ],
+    "commitments": [
+      "Harini will send updated proposal by October 2.",
+      "Rahul will prepare dashboard prototype by October 5.",
+      "Sneha will share the pricing document.",
+      "Client ABC will review the prototype on October 8."
+    ],
+    "createdAt": "2026-09-29T15:45:13.852Z",
+    "updatedAt": "2026-09-29T15:45:13.852Z"
+  },
+  {
+    "id": "meeting-1790700984357",
+    "userId": "priya",
+    "title": "Client ABC — Product Demo & Proposal Discussion",
+    "date": "2026-10-06",
+    "participants": [
+      "Priya — Project Manager Rahul — Product Lead Client ABC — Client Representative Ananya — Sales Manager"
+    ],
+    "note": "Discussed the proposed dashboard solution for Client ABC.\n\nClient ABC wants a simple analytics dashboard with sales,\nperformance, and reporting features.\n\nThe client has a project budget of $50,000.\n\nThey asked for a product demo focused on the dashboard,\nreporting, and analytics capabilities.\n\nThe team agreed to send the final proposal by October 2, 2026.\n\nThe product demo will be conducted on October 6, 2026.\n\nPriya will share the pricing document with the client.\n\nRahul will prepare the dashboard demo.\n\nAnanya will send the final proposal to Client ABC.\n\nClient ABC will review the proposal after receiving it\nand provide feedback.",
+    "summary": "Discussed a simple analytics dashboard for Client ABC with a $50,000 budget, agreed on a proposal deadline of October 2, 2026, and a demo on October 6, 2026.",
+    "decisions": [
+      "Send the final proposal by October 2, 2026.",
+      "Conduct the product demo on October 6, 2026."
+    ],
+    "actionItems": [
+      "Priya will share the pricing document with the client.",
+      "Rahul will prepare the dashboard demo.",
+      "Ananya will send the final proposal to Client ABC."
+    ],
+    "commitments": [
+      "The final proposal will be sent by October 2, 2026.",
+      "The product demo will be conducted on October 6, 2026.",
+      "Client ABC will review the proposal after receiving it."
+    ],
+    "createdAt": "2026-09-29T16:56:24.357Z",
+    "updatedAt": "2026-09-29T16:56:24.357Z"
+  }
+]
